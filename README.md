@@ -14,7 +14,7 @@ Simulación sencilla desarrollada en NetLogo en la que un pato amarillo inicia e
 
 ## Archivos
 
-* `simulacion.nlogo`: contiene el código completo del modelo en NetLogo.
+* `text.txt`: contiene el código completo del modelo en NetLogo.
 
 ## Requisitos
 
@@ -28,5 +28,6 @@ Simulación sencilla desarrollada en NetLogo en la que un pato amarillo inicia e
 4. La simulación terminará automáticamente cuando el pato llegue a la zona objetivo.
 
 ## Autor
+David Fernando Benavides Calderón
 
 Desarrollado como parte de un ejercicio sencillo en NetLogo.
